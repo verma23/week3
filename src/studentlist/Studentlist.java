@@ -8,6 +8,7 @@ package studentlist;
 /**
  * printing student details
  * @author srinivsi
+ date 20/1/20
  */
 public class Studentlist
 {
