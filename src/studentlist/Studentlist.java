@@ -7,7 +7,8 @@ package studentlist;
 
 /**
  * printing student details
- * @author srinivsi
+ * @author verma23
+ 
  date 20/1/20, welcome
  * winter
  */
